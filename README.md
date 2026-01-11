@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nihal
 =============================================================================================================================
 
-Front end and Back end developer
+Aspiring AI Engineer
 --------------------------------
 
-I have been learning back end and front end coding for past 2 years and am eager to learn more in this field.
+I am an aspiring AI engineer with hands-on experience in backend and frontend development, actively building and learning intelligent systems.
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [nihalaksh@gmail.com](mailto:nihalaksh@gmail.com)
