@@ -7,5 +7,6 @@ I'm based in Chennai, India<br>You can contact me at nihalaksh@gmail.com<br>I'm 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=n1hal06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <a href="http://www.github.com/n1hal06"><img src="https://github-readme-streak-stats.herokuapp.com/?user=n1hal06&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> </a>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=n1hal06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
