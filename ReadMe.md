@@ -9,4 +9,7 @@ I'm based in Chennai, India<br>You can contact me at nihalaksh@gmail.com<br>I'm 
 <a href="http://www.github.com/n1hal06"><img src="https://github-readme-activity-graph.vercel.app/graph?username=n1hal06&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" /></a> <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=n1hal06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🤝 Collaborations
+![Collaborations](https://img.shields.io/badge/Total%20Collaborations-7-0891b2?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1917)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
